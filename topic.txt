@@ -1,2 +1,0 @@
-SpeechRecog - Javaprojectca3/src/VAssistant/VAssistant1.java - Eclipse IDE
-C:\Users\Rishabh Deo Singh\Downloads\mysql-connector-j-8.0.33
